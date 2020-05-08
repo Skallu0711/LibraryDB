@@ -1,4 +1,4 @@
-# LibraryDB_TSQL
+# LibraryDB
 SBD project - library database (msSQL dialect version)
 
 ```
